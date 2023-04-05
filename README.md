@@ -1,38 +1,4 @@
 
-    
-<ul class="student-assignment-overview">
-  <li>
-    <span class="title">Due</span>
-    <span class="value">
-          <span class="date_text">
-                <span class="display_date">Nov 30, 2021</span> by 
-                <span class="display_time">11:59pm</span>
-          </span><!--
-        --></span>
-  </li>
-  <li>
-    <span class="title">Points</span>
-    <span class="value">15</span>
-  </li>
-    <li>
-      <span class="title">Submitting</span>
-      <span class="value">a file upload</span>
-    </li>
-      <li>
-        <span class="title">File Types</span>
-        <span class="value">cpp, txt, h, and hpp</span>
-      </li>
-  
-
-  <div class="clear"></div>
-</ul>
-
-  <div class="clear"></div>
-
-
-  <div class="clear"></div>
-
-
 
   <div class="description user_content enhanced"><h2>Overview</h2>
 <p>Working with up to one partner.&nbsp;</p>
