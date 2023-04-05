@@ -1,21 +1,4 @@
 
-
-<div id="assignment_show" class="assignment content_underline_links">
-    <!--Student View-->
-    <div class="assignment-title">
-      <div class="title-content">
-        <h1 class="title">
-          Program 4: Twisty Passages
-        <button aria-haspopup="dialog" class="ally-accessible-versions ally-add-tooltip" data-id="assignment:495436" data-ally-content-id="assignment:495436" data-ally-richcontent-eid="assignment:495436" aria-label="Alternative formats" title="Alternative formats">
-    <span class="ally-prominent-af-download-button"></span>
-</button></h1>
-      </div>
-      <div class="assignment-buttons">
-        
-
-        
-      </div>
-    </div>
     
 <ul class="student-assignment-overview">
   <li>
@@ -543,76 +526,7 @@
 </tbody></table>
 
 
-  <div id="assignment_external_tools"><div></div></div>
 
-  
-
-
-          </div>
-        </div>
-        <div id="right-side-wrapper" class="ic-app-main-content__secondary">
-          <aside id="right-side" role="complementary">
-            
-<div id="sidebar_content">
-
-    
-<div class="details">
-  <h2>Submission</h2>
-    <div class="header">
-        <i class="icon-check" aria-hidden="true"></i>
-        Submitted!
-    </div>
-  <div class="content">
-    <span class="">
-        Nov 23, 2021 at 11:14pm
-    </span>
-
-    <div>
-      <a href="/courses/92637/assignments/495436/submissions/112822">
-        Submission Details
-      </a>
-    </div>
-
-        <div>
-          <a href="/courses/92637/assignments/495436/submissions/112822?download=4577411">
-            Download main-3.cpp
-          </a>
-        </div>
-        <span class="assignment_presenter_for_submission" style="display: none;">success</span>
-        <span class="react_pill_container"></span>
-        <div>
-          <a href="/courses/92637/assignments/495436/submissions/112822?download=4577412">
-            Download mazeoutput-2.txt
-          </a>
-        </div>
-        <span class="assignment_presenter_for_submission" style="display: none;">success</span>
-        <span class="react_pill_container"></span>
-
-    <div class="module">
-          <div>Grade: 15 <span style="font-size: 0.8em;">(15 pts possible)</span></div>
-          <div>Graded Anonymously: no</div>
-
-    </div>
-
-
-    <div class="comments module">
-        <h3>Comments: </h3>
-
-        
-          <div id="comment-2009844" class="comment">
-            Excellent Job, Yuta! It was a pleasure having you in the class.
-            <div class="comment_attachments">
-            </div>
-            <div class="signature" style="font-size: 0.8em; text-align: right;">
-              Roberto Ortiz, Dec 23, 2021 at 9:20am
-            </div>
-          </div>
-    </div>
-  </div>
-</div>
-
-
-</div>
 
           </aside>
         </div>
