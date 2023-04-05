@@ -1,14 +1,3 @@
-<div id="not_right_side" class="ic-app-main-content">
-        <div id="content-wrapper" class="ic-Layout-contentWrapper">
-          
-          <div id="content" class="ic-Layout-contentMain" role="main">
-            
-<style>
-  #right-side-wrapper {
-    height: 100%;
-  }
-</style>
-
 
 
 <div id="assignment_show" class="assignment content_underline_links">
